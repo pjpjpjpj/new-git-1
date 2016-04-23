@@ -1,0 +1,8 @@
+#include<iostream.h>
+void main()
+{
+	int a,
+	cout<<"hello my name is pranjal";
+	cin>>a;
+	cout<<"yoyo";
+}
